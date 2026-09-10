@@ -61,7 +61,7 @@ h3 { font-size: 1.32rem; }
 .btn-solid:hover { background: var(--tide); }
 .btn-ghost { border-color: currentColor; color: var(--sea); background: transparent; }
 .btn-ghost:hover { background: var(--sea); color: var(--paper); border-color: var(--sea); }
-.btn-light { border: 1px solid rgba(244,241,232,.5); color: var(--paper); }
+.btn-light { background: transparent; border: 1px solid rgba(244,241,232,.5); color: var(--paper); }
 .btn-light:hover { background: var(--paper); color: var(--sea-deep); }
 
 /* ---------- header ---------- */
@@ -125,6 +125,7 @@ h3 { font-size: 1.32rem; }
 .grid-2 { grid-template-columns: repeat(2, 1fr); }
 
 .card { display: flex; flex-direction: column; }
+.card-media--square { aspect-ratio: 1; }
 .card-media { position: relative; aspect-ratio: 4/5; overflow: hidden; border-radius: var(--r); background: var(--sage); }
 .card-media img, .card-media svg { width: 100%; height: 100%; object-fit: cover; transition: transform .5s ease; }
 .card:hover .card-media img, .card:hover .card-media svg { transform: scale(1.035); }
@@ -155,7 +156,7 @@ h3 { font-size: 1.32rem; }
 /* ---------- player ---------- */
 .player {
   background: var(--sea-deep); color: var(--paper); border-radius: var(--r);
-  padding: 30px; display: grid; grid-template-columns: 190px 1fr; gap: 28px; align-items: center;
+  padding: 30px; display: grid; grid-template-columns: 190px 1fr; gap: 28px; align-items: start;
 }
 .player-cover { aspect-ratio: 1; border-radius: var(--r); overflow: hidden; }
 .player h3 { color: var(--paper); }
