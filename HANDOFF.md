@@ -74,13 +74,13 @@ blockers for the mock, all are blockers for a real build.
    multi-tenancy is ever coming back, otherwise drop it.
 6. "Free shipping on all prints" is live site policy but not in the decision
    log. Assumed to carry over; confirm.
-7. The docs referenced by `CLAUDE.md` (`docs/discovery/*.md`, `graph.json`)
-   were supplied as uploads and are **not yet committed**. Commit them first.
+7. `docs/discovery/` holds the five spec files that were supplied. `domain-model.md`,
+   `decision-log.md`, `domain-glossary.md`, `role-module-matrix.md` and `graph.json` referenced by `CLAUDE.md` were **never supplied** — `captured-graph.md` is the closest thing to each.
 
 ## Suggested next tasks, in order
 
-1. Commit the five spec files into `docs/discovery/` (CLAUDE.md, buildplan.md,
-   openquestions.md, capturedgraph.md, erd.md) so the repo is self-contained.
+1. Ask the owner for the missing spec files named above, or derive `decision-log.md` and `domain-glossary.md` from `captured-graph.md`.
+
 2. When the remaining site pages and image folder arrive: replace every
    `.pending` string and every `data-art` placeholder with real content. Keep
    the `data-kind` attribute on gallery cards — the filter chips depend on it.
