@@ -1,22 +1,25 @@
-# River & Reed Studio — storefront design mock
+# SaraiB Creative — storefront design mock
 
-A four-page static mock of the single-artist storefront described in `docs/discovery/`.
-Placeholder copy and generated placeholder artwork throughout — swap in the official
-copy and photography when it lands.
+A four-page static mock of the single-artist storefront described in `docs/discovery/`,
+built around the copy and identity of saraibcreative.com (Bracy "SaraiB" Wevers).
+Artwork is generated placeholder imagery until the site's image files are supplied.
 
 ## Pages
 
 | File | Page | What it covers |
 |---|---|---|
-| `index.html` | Home | Hero, recent work, studio story, album teaser, mailing-list band |
-| `gallery.html` | Gallery | Originals / prints / sold filters, product cards, fulfilment explainer |
-| `music.html` | Music | Track player, CD + bundle + download products, liner notes |
-| `about.html` | About & Contact | Bio, shipping/prints/commissions, contact form, FAQ |
+| `index.html` | Home | Event strip, "Obsession with Color" hero, gallery teaser, book, Sacred Sound teaser, Psalm 90:17 |
+| `gallery.html` | Gallery Galaxy | Originals / prints / sold filters, product cards, fulfilment explainer |
+| `music.html` | Sacred Sound | Track player, CD + bundle + download, media links |
+| `about.html` | Meet SaraiB | Bio, events/shipping/prints, contact form, verse |
 
 ## Design notes
 
-- Palette is the captured brand direction: deep sea blues, moss and sage greens,
-  a warm gold accent, warm paper ground. Cormorant Garamond over Inter.
+- Palette merges saraibcreative.com (navy `#031a40`, blue `#104491`, olive-gold)
+  with the captured blues-and-greens direction. Cinzel display, Josefin Sans
+  labels, Source Sans 3 body — the faces her current site uses.
+- Anything still marked *pending* in the UI (artwork titles, prices, track list)
+  is waiting on the store, Gallery Galaxy and Sacred Sound pages.
 - Product cards distinguish **Original** (one of a kind, cannot restock) from
   **Print** (restockable, drop-shipped) per the glossary.
 - Copy reflects captured decisions: drop ship to the local print shop, originals
