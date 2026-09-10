@@ -121,20 +121,17 @@ h3 { font-size: 1.05rem; }
 
 /* ---------- hero ---------- */
 .hero {
-  position: relative; color: var(--paper);
-  background: linear-gradient(150deg, var(--sea-deep), var(--sea) 45%, var(--moss) 130%);
+  position: relative; color: var(--ink);
+  background: var(--paper);
   overflow: hidden;
 }
-.hero::after {
-  content: ""; position: absolute; inset: 0;
-  background:
-    radial-gradient(60% 55% at 78% 28%, rgba(201,161,91,.28), transparent 70%),
-    radial-gradient(70% 60% at 12% 88%, rgba(157,188,171,.24), transparent 70%);
-  pointer-events: none;
-}
 .hero .shell { position: relative; z-index: 1; display: grid; grid-template-columns: 1.05fr .95fr; gap: 56px; align-items: center; padding-block: 96px; }
-.hero .eyebrow { color: var(--sage); }
-.hero p.lede { color: rgba(244,241,232,.82); }
+.hero .eyebrow { color: var(--sea); }
+.hero p.lede { color: var(--ink-soft); }
+.hero .btn-solid { background: var(--sea-deep); color: #fff; }
+.hero .btn-solid:hover { background: var(--sea); }
+.hero .btn-light { color: var(--sea-deep); border-color: var(--sea-deep); }
+.hero .btn-light:hover { background: var(--sea-deep); color: #fff; }
 .hero-actions { display: flex; gap: 14px; flex-wrap: wrap; margin-top: 34px; }
 .hero-art { aspect-ratio: 4/5; border-radius: var(--r); overflow: hidden; box-shadow: 0 30px 70px rgba(10,35,46,.45); }
 
@@ -226,7 +223,7 @@ input:focus, textarea:focus, select:focus { outline: 2px solid var(--tide); outl
 .consent input { width: 16px; height: 16px; margin-top: 3px; }
 
 /* ---------- mailing band ---------- */
-.band { background: linear-gradient(120deg, var(--tide), var(--moss)); color: var(--paper); }
+.band { background: var(--sea-deep); color: var(--paper); }
 .band .shell { padding-block: 66px; display: grid; grid-template-columns: 1fr 1fr; gap: 50px; align-items: center; }
 .band h2 { color: var(--paper); }
 .band p { color: rgba(244,241,232,.86); margin: 12px 0 0; }
