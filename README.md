@@ -1,43 +1,19 @@
-# SaraiB Creative — storefront design mock
+# SaraiB Creative
 
-A four-page static mock of the single-artist storefront described in `docs/discovery/`,
-built around the copy and identity of saraibcreative.com (Bracy "SaraiB" Wevers).
-Artwork is generated placeholder imagery until the site's image files are supplied.
+Six static pages populated from saraibcreative.com on September 10, 2026. Includes 15 gallery paintings, 3 additional homepage artworks, artist biography, book testimonial, three YouTube music videos, media coverage, and art-walk details. Original blue/navy design retained.
 
-## Pages
+## Preview and build
 
-| File | Page | What it covers |
-|---|---|---|
-| `index.html` | Home | Event strip, "Obsession with Color" hero, gallery teaser, book, Sacred Sound teaser, Psalm 90:17 |
-| `gallery.html` | Gallery Galaxy | Originals / prints / sold filters, product cards, fulfilment explainer |
-| `music.html` | Sacred Sound | Track player, CD + bundle + download, media links |
-| `about.html` | Meet SaraiB | Bio, events/shipping/prints, contact form, verse |
+Run `python3 -m http.server 8000` in this folder. Run `python3 scripts/build.py` to validate links, image files and mock removal, then produce deployment files in `dist/`.
 
-## Design notes
+The clean paths `/gallery-galaxy`, `/sacred-sound`, `/meet-saraib`, `/media`, and `/art-walk` are also included in the deployment output.
 
-- Palette merges saraibcreative.com (navy `#031a40`, blue `#104491`, olive-gold)
-  with the captured blues-and-greens direction. Cinzel display, Josefin Sans
-  labels, Source Sans 3 body — the faces her current site uses.
-- Anything still marked *pending* in the UI (artwork titles, prices, track list)
-  is waiting on the store, Gallery Galaxy and Sacred Sound pages.
-- Product cards distinguish **Original** (one of a kind, cannot restock) from
-  **Print** (restockable, drop-shipped) per the glossary.
-- Copy reflects captured decisions: drop ship to the local print shop, originals
-  handled personally by the artist, Square checkout, automatic mailing-list
-  signup for buyers with open signup for everyone else.
+## Source content
 
-## Running it
+`docs/source/` contains archived public HTML, page configuration, and an image URL-to-local-path manifest. The deployed bundle contains only the six pages and their referenced assets, not these snapshots.
 
-Static files, no build step:
+`scripts/collect_assets.py` retrieves source artwork. `scripts/import_content.py` rebuilds content from snapshots and needs Beautiful Soup 4. Normal preview and deployment do not require that library.
 
-```
-python3 -m http.server 8000
-```
+## Commerce and contact
 
-Then open http://localhost:8000.
-
-## Mock behaviour
-
-`assets/main.js` fakes the interactive parts — deterministic SVG placeholder art,
-gallery filters, cart badge, audio player, and form submissions. No backend,
-no payments, nothing persisted.
+Shopping links open the existing SaraiB store. The public product API could not be resolved during migration, so prices, titles, availability, and checkout were not invented. Contact and RSVP links open email. New Square checkout, print-shop notifications, a mailing list, and admin remain future work.

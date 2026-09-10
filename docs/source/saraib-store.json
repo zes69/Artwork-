@@ -1,0 +1,2548 @@
+[
+  {
+    "adEndpoint": "/markup/ad",
+    "isPublish": true,
+    "containerId": "freemium-ad-581"
+  },
+  {
+    "env": "production",
+    "renderMode": "PUBLISH",
+    "viewDevice": "",
+    "fonts": [
+      "cinzel",
+      "josefin-sans",
+      "raleway",
+      "cinzel",
+      "righteous"
+    ],
+    "colors": [
+      "#031a40"
+    ],
+    "fontScale": null,
+    "locale": "en-US",
+    "language": "en",
+    "resellerId": 597713,
+    "internalLinks": {
+      "f8c31687-a813-4278-bcdb-ff46f516586c": {
+        "pageId": "31b1baf1-3431-49a7-9bbf-8d52258be713",
+        "routePath": "/"
+      },
+      "e7aa8efb-3d8e-4bce-aa65-71c5ff7f8d28": {
+        "pageId": "31b1baf1-3431-49a7-9bbf-8d52258be713",
+        "widgetId": null,
+        "routePath": "/"
+      },
+      "0856d579-8049-4bbf-8f5c-8b815c4766f1": {
+        "pageId": "539d6a0d-6044-409c-b3d4-edef61ffaf79",
+        "widgetId": null,
+        "routePath": "/media"
+      },
+      "f95a53f3-d5a6-4b41-b011-516e47c7049d": {
+        "pageId": "b51dc8f1-cb87-4e95-904b-ab3c13dcaca8",
+        "widgetId": null,
+        "routePath": "/gallery-galaxy"
+      },
+      "17ffea5d-1989-464e-9d59-97a46548ab5c": {
+        "pageId": "491f559a-70e2-4858-af73-09b6b0f368c3",
+        "widgetId": null,
+        "routePath": "/meet-saraib"
+      },
+      "bf33617a-120d-44cd-a6a7-343e68e67579": {
+        "pageId": "491f559a-70e2-4858-af73-09b6b0f368c3",
+        "widgetId": null,
+        "routePath": "/meet-saraib"
+      },
+      "057dbdc6-566b-4cae-8b82-8de6054db454": {
+        "pageId": "2601b159-dd08-4520-be95-58e43d78e4c3",
+        "widgetId": "6762177c-c810-4759-9a9d-878092c127bf",
+        "routePath": "/art-walk"
+      }
+    },
+    "isHomepage": false,
+    "isInternalPage": true,
+    "navigationMap": {
+      "d22f447f-0542-4a86-bb49-31831082be83": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "d22f447f-0542-4a86-bb49-31831082be83",
+        "href": "/m/login",
+        "target": "",
+        "visible": true,
+        "requiresAuth": false,
+        "tags": [
+          "LOGIN"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "b79d4871-d147-426b-b7b6-47ff9ffd2604": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "b79d4871-d147-426b-b7b6-47ff9ffd2604",
+        "href": "/m/no-access",
+        "target": "",
+        "visible": true,
+        "requiresAuth": false,
+        "tags": [
+          "NO_ACCESS"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "676c95a9-be24-4094-b958-4263c411dcbc": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "676c95a9-be24-4094-b958-4263c411dcbc",
+        "href": "/m/orders",
+        "target": "",
+        "visible": true,
+        "requiresAuth": true,
+        "tags": [
+          "SHOW_ORDERS"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "7f9ded06-3483-4ce4-bde7-eeaa116cba6c": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "7f9ded06-3483-4ce4-bde7-eeaa116cba6c",
+        "name": "Sacred Sound ",
+        "href": "/sacred-sound",
+        "target": "",
+        "visible": true,
+        "isSectionLink": false,
+        "requiresAuth": false,
+        "tags": [
+          "ABOUT",
+          "QUOTE",
+          "VIDEO"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "be2c7384-8b6e-4e75-9ba7-db9344124e82": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "be2c7384-8b6e-4e75-9ba7-db9344124e82",
+        "href": "/m/create",
+        "target": "",
+        "visible": true,
+        "requiresAuth": false,
+        "tags": [
+          "CREATE_PASSWORD"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "e8bd0e73-16a4-4df6-8553-a72310500786": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "e8bd0e73-16a4-4df6-8553-a72310500786",
+        "href": "/m/account",
+        "target": "",
+        "visible": true,
+        "requiresAuth": true,
+        "tags": [
+          "SHOW_ACCOUNT"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "25d0a48a-89f3-4f6e-a606-08bd7184ec9b": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "25d0a48a-89f3-4f6e-a606-08bd7184ec9b",
+        "href": "/m/auth-redirect",
+        "target": "",
+        "visible": true,
+        "requiresAuth": false,
+        "tags": [
+          "AUTH_REDIRECT"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "491f559a-70e2-4858-af73-09b6b0f368c3": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "491f559a-70e2-4858-af73-09b6b0f368c3",
+        "name": "Meet SaraiB",
+        "href": "/meet-saraib",
+        "target": "",
+        "visible": true,
+        "isSectionLink": false,
+        "requiresAuth": false,
+        "tags": [
+          "ABOUT",
+          "QUOTE"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "eca093a8-4100-4435-aea3-dd9405ec1762": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "eca093a8-4100-4435-aea3-dd9405ec1762",
+        "href": "/m/reset",
+        "target": "",
+        "visible": true,
+        "requiresAuth": false,
+        "tags": [
+          "RESET_PASSWORD"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "96c69af4-0f89-4c7b-8b8b-71cf8447e2b1": {
+        "isFlyoutMenu": false,
+        "active": true,
+        "pageId": "96c69af4-0f89-4c7b-8b8b-71cf8447e2b1",
+        "name": "SaraiB Store",
+        "href": "/saraib-store",
+        "target": "",
+        "visible": true,
+        "isSectionLink": false,
+        "requiresAuth": false,
+        "tags": [
+          "INTRODUCTION",
+          "SHOP"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "31b1baf1-3431-49a7-9bbf-8d52258be713": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "31b1baf1-3431-49a7-9bbf-8d52258be713",
+        "name": "Home",
+        "href": "/",
+        "target": "",
+        "visible": true,
+        "requiresAuth": false,
+        "tags": [
+          "ABOUT",
+          "BUTTONS",
+          "CONTACT",
+          "GALLERY",
+          "LOGOS",
+          "QUOTE",
+          "SOCIAL"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": true
+      },
+      "2601b159-dd08-4520-be95-58e43d78e4c3": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "2601b159-dd08-4520-be95-58e43d78e4c3",
+        "name": "ART WALK ",
+        "href": "/art-walk",
+        "target": "",
+        "visible": false,
+        "isSectionLink": false,
+        "requiresAuth": false,
+        "tags": [
+          "CALENDAR",
+          "CONTACT",
+          "GALLERY"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "539d6a0d-6044-409c-b3d4-edef61ffaf79": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "539d6a0d-6044-409c-b3d4-edef61ffaf79",
+        "name": "Media",
+        "href": "/media",
+        "target": "",
+        "visible": true,
+        "isSectionLink": false,
+        "requiresAuth": false,
+        "tags": [
+          "CALENDAR",
+          "CONTACT",
+          "CONTENT",
+          "QUOTE"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "5bcd2708-aca4-4f19-ad56-ec137b2e10ca": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "5bcd2708-aca4-4f19-ad56-ec137b2e10ca",
+        "name": "404",
+        "href": "/404",
+        "target": "",
+        "visible": false,
+        "requiresAuth": false,
+        "tags": [
+          "404",
+          "INTRODUCTION"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "e5ea69c9-31c8-4a20-98a6-632629c02bf2": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "e5ea69c9-31c8-4a20-98a6-632629c02bf2",
+        "href": "/m/create-account",
+        "target": "",
+        "visible": true,
+        "requiresAuth": false,
+        "tags": [
+          "CREATE_ACCOUNT"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "b51dc8f1-cb87-4e95-904b-ab3c13dcaca8": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "b51dc8f1-cb87-4e95-904b-ab3c13dcaca8",
+        "name": "Gallery Galaxy",
+        "href": "/gallery-galaxy",
+        "target": "",
+        "visible": true,
+        "isSectionLink": false,
+        "requiresAuth": false,
+        "tags": [
+          "GALLERY",
+          "QUOTE"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      }
+    },
+    "dials": {
+      "colors": [
+        {
+          "id": "#031a40",
+          "meta": {
+            "primary": "rgb(3, 26, 64)",
+            "accent": "rgb(17, 17, 17)",
+            "neutral": "rgb(255, 255, 255)"
+          }
+        }
+      ],
+      "fonts": {
+        "primary": {
+          "id": "cinzel",
+          "description": "",
+          "tags": [
+            "serif",
+            "elegant"
+          ],
+          "meta": {
+            "order": 8,
+            "primary": {
+              "id": "cinzel",
+              "name": "Cinzel",
+              "url": "//fonts.googleapis.com/css?family=Cinzel:400&display=swap",
+              "family": "'Cinzel', Georgia, serif",
+              "size": 16,
+              "weight": 400,
+              "weights": [
+                400,
+                700
+              ]
+            },
+            "alternate": {
+              "id": "source-sans-pro",
+              "name": "Source Sans Pro",
+              "url": "//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,700,700i&display=swap",
+              "family": "'Source Sans Pro', arial, sans-serif",
+              "size": 16,
+              "weight": 400,
+              "weights": [
+                300,
+                400,
+                700
+              ],
+              "styles": {
+                "letterSpacing": "normal",
+                "textTransform": "none"
+              }
+            }
+          },
+          "overridesPrimary": [
+            {
+              "locales": [
+                "tr-TR",
+                "vi-VN",
+                "pl-PL",
+                "ta-IN",
+                "mr-IN",
+                "hi-IN"
+              ],
+              "meta": {
+                "primary": {
+                  "family": "serif"
+                }
+              }
+            }
+          ]
+        },
+        "alternate": {
+          "id": "josefin-sans",
+          "description": "",
+          "tags": [],
+          "meta": {
+            "order": 7,
+            "alternate": {
+              "id": "josefin-sans",
+              "name": "Josefin Sans",
+              "url": "//fonts.googleapis.com/css?family=Josefin+Sans:400,600,700&display=swap",
+              "family": "'Josefin Sans', Arial, sans-serif",
+              "size": 16,
+              "weight": 400,
+              "weights": [
+                400,
+                600,
+                700
+              ],
+              "styles": {
+                "letterSpacing": "normal",
+                "textTransform": "none"
+              }
+            }
+          },
+          "overridesAlternate": [
+            {
+              "locales": [
+                "vi-VN"
+              ],
+              "meta": {
+                "alternate": {
+                  "family": "Arial, sans-serif"
+                }
+              }
+            },
+            {
+              "locales": [
+                "ja-JP"
+              ],
+              "meta": {
+                "alternate": {
+                  "family": "Josefin Sans, Meiryo, '\u30e1\u30a4\u30ea\u30aa', sans-serif"
+                }
+              }
+            },
+            {
+              "locales": [
+                "ko-KR"
+              ],
+              "meta": {
+                "alternate": {
+                  "family": "Josefin Sans, '\uad74\ub9bc', Gulim, '\uad74\ub9bc\uccb4', GulimChe, sans-serif"
+                }
+              }
+            },
+            {
+              "locales": [
+                "th-TH"
+              ],
+              "meta": {
+                "alternate": {
+                  "family": "Josefin Sans, BrowalliaUPC, Tahoma, sans-serif"
+                }
+              }
+            },
+            {
+              "locales": [
+                "zh-CN",
+                "zh-SG"
+              ],
+              "meta": {
+                "alternate": {
+                  "family": "Josefin Sans, '\u4e2d\u6613\u9ed1\u4f53', SimHei, sans-serif"
+                }
+              }
+            },
+            {
+              "locales": [
+                "zh-HK",
+                "zh-TW"
+              ],
+              "meta": {
+                "alternate": {
+                  "family": "Josefin Slab, '\u5fae\u8edf\u6b63\u9ed1\u9ad4', Microsoft JhengHei, sans-serif"
+                }
+              }
+            }
+          ]
+        },
+        "logo": {
+          "id": "raleway",
+          "description": "",
+          "tags": [],
+          "meta": {
+            "order": 32,
+            "logo": {
+              "id": "raleway",
+              "name": "Raleway",
+              "url": "//fonts.googleapis.com/css?family=Raleway:700,400&display=swap",
+              "family": "'Raleway', arial, Sans-Serif",
+              "size": 14,
+              "weight": 400,
+              "weights": [
+                400,
+                700
+              ],
+              "styles": {
+                "letterSpacing": "4px",
+                "textTransform": "uppercase",
+                "fontWeight": 400,
+                "fontSize": "xlarge"
+              }
+            }
+          }
+        }
+      }
+    },
+    "theme": "Theme15",
+    "paintJob": ""
+  },
+  {
+    "isShopPage": true,
+    "shopPageId": "96c69af4-0f89-4c7b-8b8b-71cf8447e2b1",
+    "shopRoute": "/saraib-store",
+    "staticContent": {
+      "search_placeholder": "Search Products"
+    },
+    "domainName": "saraibcreative.com",
+    "pageRoute": "/saraib-store",
+    "searchFormLocation": "DESKTOP_NAV",
+    "formContainerId": "n-580584-utility-menu",
+    "membershipOn": true,
+    "onHomepage": false,
+    "widgetId": "7266d880-a07d-4714-bd50-b6532651d36e",
+    "section": "default",
+    "category": "primary",
+    "locale": "en-US",
+    "env": "production",
+    "renderMode": "PUBLISH",
+    "viewDevice": ""
+  },
+  {
+    "order": 0,
+    "widgetId": "7266d880-a07d-4714-bd50-b6532651d36e",
+    "widgetType": "HEADER",
+    "widgetPreset": "header9",
+    "group": "UtilitiesMenu",
+    "groupType": "Default",
+    "section": "default",
+    "category": "primary",
+    "fontSize": "medium",
+    "fontFamily": "alternate",
+    "websiteThemeOverrides": {
+      "ButtonPrimary": {
+        "value": {
+          "shape": "SOFT",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "color": "PRIMARY",
+          "treatment": "glass"
+        }
+      },
+      "ButtonExternal": {
+        "value": {
+          "shape": "SOFT",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "color": "PRIMARY",
+          "treatment": "glass"
+        }
+      },
+      "ButtonSecondary": {
+        "value": {
+          "color": "PRIMARY",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "treatment": "glass",
+          "shape": "ROUND"
+        }
+      },
+      "ButtonSpotlight": {
+        "value": {
+          "color": "PRIMARY",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "treatment": "glass",
+          "shape": "ROUND"
+        }
+      }
+    },
+    "widgetThemeOverrides": {
+      "HeadingAlpha": {
+        "byType": {
+          "HeroTagline": {
+            "value": {
+              "style": {
+                "fontSize": "xxlarge",
+                "fontFamily": "'Cinzel', Georgia, serif",
+                "font": "'Cinzel', Georgia, serif"
+              },
+              "fullWidth": false,
+              "featured": false,
+              "fontPack": "cinzel"
+            }
+          }
+        }
+      },
+      "HeadingDelta": {
+        "byType": {
+          "HeroSubTagline": {
+            "value": {
+              "featured": false,
+              "style": {
+                "fontFamily": "'Josefin Sans', Arial, sans-serif",
+                "font": "'Josefin Sans', Arial, sans-serif"
+              },
+              "fullWidth": false,
+              "fontPack": "righteous"
+            }
+          }
+        }
+      }
+    },
+    "divider": null,
+    "sectionColorOverride": null,
+    "colorMode": null
+  },
+  {
+    "isShopPage": true,
+    "appointmentsPageId": null,
+    "shopPageId": "96c69af4-0f89-4c7b-8b8b-71cf8447e2b1",
+    "shopRoute": "/saraib-store",
+    "accountId": "6a27a62d-951c-11f1-9644-3cfdfe7608b1",
+    "websiteId": "89cdc816-f4d5-4791-9db9-12ed5734b8e5",
+    "olsStatus": "PROVISION_SUCCESS",
+    "olsAccountStatus": "ACTIVE",
+    "rootDomain": "secureserver.net",
+    "domainName": "saraibcreative.com",
+    "pageRoute": "/saraib-store",
+    "isReseller": true,
+    "staticContent": {
+      "cartProducts": "Products",
+      "cartServices": "Services",
+      "cartIcon": "Shopping Cart Icon"
+    },
+    "widgetId": "7266d880-a07d-4714-bd50-b6532651d36e",
+    "section": "default",
+    "category": "primary",
+    "locale": "en-US",
+    "env": "production",
+    "renderMode": "PUBLISH",
+    "viewDevice": ""
+  },
+  {
+    "order": 0,
+    "widgetId": "7266d880-a07d-4714-bd50-b6532651d36e",
+    "widgetType": "HEADER",
+    "widgetPreset": "header9",
+    "group": "UtilitiesMenu",
+    "groupType": "Default",
+    "section": "default",
+    "category": "primary",
+    "fontSize": "medium",
+    "fontFamily": "alternate",
+    "websiteThemeOverrides": {
+      "ButtonPrimary": {
+        "value": {
+          "shape": "SOFT",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "color": "PRIMARY",
+          "treatment": "glass"
+        }
+      },
+      "ButtonExternal": {
+        "value": {
+          "shape": "SOFT",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "color": "PRIMARY",
+          "treatment": "glass"
+        }
+      },
+      "ButtonSecondary": {
+        "value": {
+          "color": "PRIMARY",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "treatment": "glass",
+          "shape": "ROUND"
+        }
+      },
+      "ButtonSpotlight": {
+        "value": {
+          "color": "PRIMARY",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "treatment": "glass",
+          "shape": "ROUND"
+        }
+      }
+    },
+    "widgetThemeOverrides": {
+      "HeadingAlpha": {
+        "byType": {
+          "HeroTagline": {
+            "value": {
+              "style": {
+                "fontSize": "xxlarge",
+                "fontFamily": "'Cinzel', Georgia, serif",
+                "font": "'Cinzel', Georgia, serif"
+              },
+              "fullWidth": false,
+              "featured": false,
+              "fontPack": "cinzel"
+            }
+          }
+        }
+      },
+      "HeadingDelta": {
+        "byType": {
+          "HeroSubTagline": {
+            "value": {
+              "featured": false,
+              "style": {
+                "fontFamily": "'Josefin Sans', Arial, sans-serif",
+                "font": "'Josefin Sans', Arial, sans-serif"
+              },
+              "fullWidth": false,
+              "fontPack": "righteous"
+            }
+          }
+        }
+      }
+    },
+    "divider": null,
+    "sectionColorOverride": null,
+    "colorMode": null
+  },
+  {
+    "toggleId": "n-580584-membershipId-loggedout",
+    "renderCustomIcon": {
+      "name": "account",
+      "size": 28,
+      "minTarget": true
+    },
+    "overrideIconStyle": {},
+    "dataAid": "MEMBERSHIP_ICON_DESKTOP_RENDERED",
+    "hasHover": true,
+    "widgetId": "7266d880-a07d-4714-bd50-b6532651d36e",
+    "section": "default",
+    "category": "primary",
+    "locale": "en-US",
+    "env": "production",
+    "renderMode": "PUBLISH",
+    "viewDevice": ""
+  },
+  {
+    "order": 0,
+    "widgetId": "7266d880-a07d-4714-bd50-b6532651d36e",
+    "widgetType": "HEADER",
+    "widgetPreset": "header9",
+    "group": "UtilitiesMenu",
+    "groupType": "Default",
+    "section": "default",
+    "category": "primary",
+    "fontSize": "medium",
+    "fontFamily": "alternate",
+    "websiteThemeOverrides": {
+      "ButtonPrimary": {
+        "value": {
+          "shape": "SOFT",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "color": "PRIMARY",
+          "treatment": "glass"
+        }
+      },
+      "ButtonExternal": {
+        "value": {
+          "shape": "SOFT",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "color": "PRIMARY",
+          "treatment": "glass"
+        }
+      },
+      "ButtonSecondary": {
+        "value": {
+          "color": "PRIMARY",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "treatment": "glass",
+          "shape": "ROUND"
+        }
+      },
+      "ButtonSpotlight": {
+        "value": {
+          "color": "PRIMARY",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "treatment": "glass",
+          "shape": "ROUND"
+        }
+      }
+    },
+    "widgetThemeOverrides": {
+      "HeadingAlpha": {
+        "byType": {
+          "HeroTagline": {
+            "value": {
+              "style": {
+                "fontSize": "xxlarge",
+                "fontFamily": "'Cinzel', Georgia, serif",
+                "font": "'Cinzel', Georgia, serif"
+              },
+              "fullWidth": false,
+              "featured": false,
+              "fontPack": "cinzel"
+            }
+          }
+        }
+      },
+      "HeadingDelta": {
+        "byType": {
+          "HeroSubTagline": {
+            "value": {
+              "featured": false,
+              "style": {
+                "fontFamily": "'Josefin Sans', Arial, sans-serif",
+                "font": "'Josefin Sans', Arial, sans-serif"
+              },
+              "fullWidth": false,
+              "fontPack": "righteous"
+            }
+          }
+        }
+      }
+    },
+    "divider": null,
+    "sectionColorOverride": null,
+    "colorMode": null
+  },
+  {
+    "toggleId": "n-580584-membershipId",
+    "renderCustomIcon": {
+      "name": "account",
+      "size": 28,
+      "minTarget": true
+    },
+    "overrideIconStyle": {},
+    "dataAid": "MEMBERSHIP_ICON_DESKTOP_RENDERED",
+    "hasHover": true,
+    "widgetId": "7266d880-a07d-4714-bd50-b6532651d36e",
+    "section": "default",
+    "category": "primary",
+    "locale": "en-US",
+    "env": "production",
+    "renderMode": "PUBLISH",
+    "viewDevice": ""
+  },
+  {
+    "order": 0,
+    "widgetId": "7266d880-a07d-4714-bd50-b6532651d36e",
+    "widgetType": "HEADER",
+    "widgetPreset": "header9",
+    "group": "UtilitiesMenu",
+    "groupType": "Default",
+    "section": "default",
+    "category": "primary",
+    "fontSize": "medium",
+    "fontFamily": "alternate",
+    "websiteThemeOverrides": {
+      "ButtonPrimary": {
+        "value": {
+          "shape": "SOFT",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "color": "PRIMARY",
+          "treatment": "glass"
+        }
+      },
+      "ButtonExternal": {
+        "value": {
+          "shape": "SOFT",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "color": "PRIMARY",
+          "treatment": "glass"
+        }
+      },
+      "ButtonSecondary": {
+        "value": {
+          "color": "PRIMARY",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "treatment": "glass",
+          "shape": "ROUND"
+        }
+      },
+      "ButtonSpotlight": {
+        "value": {
+          "color": "PRIMARY",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "treatment": "glass",
+          "shape": "ROUND"
+        }
+      }
+    },
+    "widgetThemeOverrides": {
+      "HeadingAlpha": {
+        "byType": {
+          "HeroTagline": {
+            "value": {
+              "style": {
+                "fontSize": "xxlarge",
+                "fontFamily": "'Cinzel', Georgia, serif",
+                "font": "'Cinzel', Georgia, serif"
+              },
+              "fullWidth": false,
+              "featured": false,
+              "fontPack": "cinzel"
+            }
+          }
+        }
+      },
+      "HeadingDelta": {
+        "byType": {
+          "HeroSubTagline": {
+            "value": {
+              "featured": false,
+              "style": {
+                "fontFamily": "'Josefin Sans', Arial, sans-serif",
+                "font": "'Josefin Sans', Arial, sans-serif"
+              },
+              "fullWidth": false,
+              "fontPack": "righteous"
+            }
+          }
+        }
+      }
+    },
+    "divider": null,
+    "sectionColorOverride": null,
+    "colorMode": null
+  },
+  {
+    "toggleId": "more-598",
+    "label": "More",
+    "dataAid": "NAV_MORE",
+    "navBarId": "navBar-582",
+    "parentId": "nav-597",
+    "widgetId": "7266d880-a07d-4714-bd50-b6532651d36e",
+    "section": "default",
+    "category": "primary",
+    "locale": "en-US",
+    "env": "production",
+    "renderMode": "PUBLISH",
+    "viewDevice": ""
+  },
+  {
+    "order": 0,
+    "widgetId": "7266d880-a07d-4714-bd50-b6532651d36e",
+    "widgetType": "HEADER",
+    "widgetPreset": "header9",
+    "group": "Nav",
+    "groupType": "Default",
+    "section": "default",
+    "category": "primary",
+    "fontSize": "medium",
+    "fontFamily": "alternate",
+    "websiteThemeOverrides": {
+      "ButtonPrimary": {
+        "value": {
+          "shape": "SOFT",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "color": "PRIMARY",
+          "treatment": "glass"
+        }
+      },
+      "ButtonExternal": {
+        "value": {
+          "shape": "SOFT",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "color": "PRIMARY",
+          "treatment": "glass"
+        }
+      },
+      "ButtonSecondary": {
+        "value": {
+          "color": "PRIMARY",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "treatment": "glass",
+          "shape": "ROUND"
+        }
+      },
+      "ButtonSpotlight": {
+        "value": {
+          "color": "PRIMARY",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "treatment": "glass",
+          "shape": "ROUND"
+        }
+      }
+    },
+    "widgetThemeOverrides": {
+      "HeadingAlpha": {
+        "byType": {
+          "HeroTagline": {
+            "value": {
+              "style": {
+                "fontSize": "xxlarge",
+                "fontFamily": "'Cinzel', Georgia, serif",
+                "font": "'Cinzel', Georgia, serif"
+              },
+              "fullWidth": false,
+              "featured": false,
+              "fontPack": "cinzel"
+            }
+          }
+        }
+      },
+      "HeadingDelta": {
+        "byType": {
+          "HeroSubTagline": {
+            "value": {
+              "featured": false,
+              "style": {
+                "fontFamily": "'Josefin Sans', Arial, sans-serif",
+                "font": "'Josefin Sans', Arial, sans-serif"
+              },
+              "fullWidth": false,
+              "fontPack": "righteous"
+            }
+          }
+        }
+      }
+    },
+    "divider": null,
+    "sectionColorOverride": null,
+    "colorMode": null
+  },
+  {
+    "navId": "nav-597",
+    "containerId": "navBar-582"
+  },
+  {
+    "toggleId": "n-580-navId-mobile",
+    "uniqueId": "n-580",
+    "style": {
+      "color": "highContrast",
+      ":hover": {
+        "color": "highlight"
+      },
+      "@md": {
+        "display": "none"
+      }
+    },
+    "widgetId": "7266d880-a07d-4714-bd50-b6532651d36e",
+    "section": "default",
+    "category": "primary",
+    "locale": "en-US",
+    "env": "production",
+    "renderMode": "PUBLISH",
+    "viewDevice": ""
+  },
+  {
+    "order": 0,
+    "widgetId": "7266d880-a07d-4714-bd50-b6532651d36e",
+    "widgetType": "HEADER",
+    "widgetPreset": "header9",
+    "group": "Section",
+    "groupType": "Default",
+    "section": "default",
+    "category": "primary",
+    "fontSize": "medium",
+    "fontFamily": "alternate",
+    "websiteThemeOverrides": {
+      "ButtonPrimary": {
+        "value": {
+          "shape": "SOFT",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "color": "PRIMARY",
+          "treatment": "glass"
+        }
+      },
+      "ButtonExternal": {
+        "value": {
+          "shape": "SOFT",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "color": "PRIMARY",
+          "treatment": "glass"
+        }
+      },
+      "ButtonSecondary": {
+        "value": {
+          "color": "PRIMARY",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "treatment": "glass",
+          "shape": "ROUND"
+        }
+      },
+      "ButtonSpotlight": {
+        "value": {
+          "color": "PRIMARY",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "treatment": "glass",
+          "shape": "ROUND"
+        }
+      }
+    },
+    "widgetThemeOverrides": {
+      "HeadingAlpha": {
+        "byType": {
+          "HeroTagline": {
+            "value": {
+              "style": {
+                "fontSize": "xxlarge",
+                "fontFamily": "'Cinzel', Georgia, serif",
+                "font": "'Cinzel', Georgia, serif"
+              },
+              "fullWidth": false,
+              "featured": false,
+              "fontPack": "cinzel"
+            }
+          }
+        }
+      },
+      "HeadingDelta": {
+        "byType": {
+          "HeroSubTagline": {
+            "value": {
+              "featured": false,
+              "style": {
+                "fontFamily": "'Josefin Sans', Arial, sans-serif",
+                "font": "'Josefin Sans', Arial, sans-serif"
+              },
+              "fullWidth": false,
+              "fontPack": "righteous"
+            }
+          }
+        }
+      }
+    },
+    "divider": null,
+    "sectionColorOverride": null,
+    "colorMode": null
+  },
+  {
+    "isShopPage": true,
+    "appointmentsPageId": null,
+    "shopPageId": "96c69af4-0f89-4c7b-8b8b-71cf8447e2b1",
+    "shopRoute": "/saraib-store",
+    "accountId": "6a27a62d-951c-11f1-9644-3cfdfe7608b1",
+    "websiteId": "89cdc816-f4d5-4791-9db9-12ed5734b8e5",
+    "olsStatus": "PROVISION_SUCCESS",
+    "olsAccountStatus": "ACTIVE",
+    "rootDomain": "secureserver.net",
+    "domainName": "saraibcreative.com",
+    "pageRoute": "/saraib-store",
+    "isReseller": true,
+    "staticContent": {
+      "cartProducts": "Products",
+      "cartServices": "Services",
+      "cartIcon": "Shopping Cart Icon"
+    },
+    "widgetId": "7266d880-a07d-4714-bd50-b6532651d36e",
+    "section": "default",
+    "category": "primary",
+    "locale": "en-US",
+    "env": "production",
+    "renderMode": "PUBLISH",
+    "viewDevice": ""
+  },
+  {
+    "order": 0,
+    "widgetId": "7266d880-a07d-4714-bd50-b6532651d36e",
+    "widgetType": "HEADER",
+    "widgetPreset": "header9",
+    "group": "UtilitiesMenu",
+    "groupType": "Default",
+    "section": "default",
+    "category": "primary",
+    "fontSize": "medium",
+    "fontFamily": "alternate",
+    "websiteThemeOverrides": {
+      "ButtonPrimary": {
+        "value": {
+          "shape": "SOFT",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "color": "PRIMARY",
+          "treatment": "glass"
+        }
+      },
+      "ButtonExternal": {
+        "value": {
+          "shape": "SOFT",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "color": "PRIMARY",
+          "treatment": "glass"
+        }
+      },
+      "ButtonSecondary": {
+        "value": {
+          "color": "PRIMARY",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "treatment": "glass",
+          "shape": "ROUND"
+        }
+      },
+      "ButtonSpotlight": {
+        "value": {
+          "color": "PRIMARY",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "treatment": "glass",
+          "shape": "ROUND"
+        }
+      }
+    },
+    "widgetThemeOverrides": {
+      "HeadingAlpha": {
+        "byType": {
+          "HeroTagline": {
+            "value": {
+              "style": {
+                "fontSize": "xxlarge",
+                "fontFamily": "'Cinzel', Georgia, serif",
+                "font": "'Cinzel', Georgia, serif"
+              },
+              "fullWidth": false,
+              "featured": false,
+              "fontPack": "cinzel"
+            }
+          }
+        }
+      },
+      "HeadingDelta": {
+        "byType": {
+          "HeroSubTagline": {
+            "value": {
+              "featured": false,
+              "style": {
+                "fontFamily": "'Josefin Sans', Arial, sans-serif",
+                "font": "'Josefin Sans', Arial, sans-serif"
+              },
+              "fullWidth": false,
+              "fontPack": "righteous"
+            }
+          }
+        }
+      }
+    },
+    "divider": null,
+    "sectionColorOverride": null,
+    "colorMode": null
+  },
+  {
+    "searchBgStyle": {},
+    "isShopPage": true,
+    "shopPageId": "96c69af4-0f89-4c7b-8b8b-71cf8447e2b1",
+    "shopRoute": "/saraib-store",
+    "inNavigationDrawer": true,
+    "staticContent": {
+      "search_placeholder": "Search Products"
+    },
+    "domainName": "saraibcreative.com",
+    "pageRoute": "/saraib-store",
+    "keepOpen": true,
+    "searchFormLocation": "NAV_DRAWER",
+    "widgetId": "7266d880-a07d-4714-bd50-b6532651d36e",
+    "section": "default",
+    "category": "primary",
+    "locale": "en-US",
+    "env": "production",
+    "renderMode": "PUBLISH",
+    "viewDevice": ""
+  },
+  {
+    "order": 0,
+    "widgetId": "7266d880-a07d-4714-bd50-b6532651d36e",
+    "widgetType": "HEADER",
+    "widgetPreset": "header9",
+    "group": "NavigationDrawer",
+    "groupType": "Default",
+    "section": "default",
+    "category": "primary",
+    "fontSize": "medium",
+    "fontFamily": "alternate",
+    "websiteThemeOverrides": {
+      "ButtonPrimary": {
+        "value": {
+          "shape": "SOFT",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "color": "PRIMARY",
+          "treatment": "glass"
+        }
+      },
+      "ButtonExternal": {
+        "value": {
+          "shape": "SOFT",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "color": "PRIMARY",
+          "treatment": "glass"
+        }
+      },
+      "ButtonSecondary": {
+        "value": {
+          "color": "PRIMARY",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "treatment": "glass",
+          "shape": "ROUND"
+        }
+      },
+      "ButtonSpotlight": {
+        "value": {
+          "color": "PRIMARY",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "treatment": "glass",
+          "shape": "ROUND"
+        }
+      }
+    },
+    "widgetThemeOverrides": {
+      "HeadingAlpha": {
+        "byType": {
+          "HeroTagline": {
+            "value": {
+              "style": {
+                "fontSize": "xxlarge",
+                "fontFamily": "'Cinzel', Georgia, serif",
+                "font": "'Cinzel', Georgia, serif"
+              },
+              "fullWidth": false,
+              "featured": false,
+              "fontPack": "cinzel"
+            }
+          }
+        }
+      },
+      "HeadingDelta": {
+        "byType": {
+          "HeroSubTagline": {
+            "value": {
+              "featured": false,
+              "style": {
+                "fontFamily": "'Josefin Sans', Arial, sans-serif",
+                "font": "'Josefin Sans', Arial, sans-serif"
+              },
+              "fullWidth": false,
+              "fontPack": "righteous"
+            }
+          }
+        }
+      }
+    },
+    "divider": null,
+    "sectionColorOverride": null,
+    "colorMode": null
+  },
+  {
+    "id": "9da4fc5c-a9e0-4265-bc6d-9fe698fc1388"
+  },
+  {
+    "env": "production",
+    "renderMode": "PUBLISH",
+    "viewDevice": null,
+    "fonts": [
+      "cinzel",
+      "josefin-sans",
+      "raleway",
+      "cinzel",
+      "righteous"
+    ],
+    "colors": [
+      "#031a40"
+    ],
+    "fontScale": "medium",
+    "locale": "en-US",
+    "language": "en",
+    "resellerId": 597713,
+    "internalLinks": {
+      "f8c31687-a813-4278-bcdb-ff46f516586c": {
+        "pageId": "31b1baf1-3431-49a7-9bbf-8d52258be713",
+        "routePath": "/"
+      },
+      "e7aa8efb-3d8e-4bce-aa65-71c5ff7f8d28": {
+        "pageId": "31b1baf1-3431-49a7-9bbf-8d52258be713",
+        "widgetId": null,
+        "routePath": "/"
+      },
+      "0856d579-8049-4bbf-8f5c-8b815c4766f1": {
+        "pageId": "539d6a0d-6044-409c-b3d4-edef61ffaf79",
+        "widgetId": null,
+        "routePath": "/media"
+      },
+      "f95a53f3-d5a6-4b41-b011-516e47c7049d": {
+        "pageId": "b51dc8f1-cb87-4e95-904b-ab3c13dcaca8",
+        "widgetId": null,
+        "routePath": "/gallery-galaxy"
+      },
+      "17ffea5d-1989-464e-9d59-97a46548ab5c": {
+        "pageId": "491f559a-70e2-4858-af73-09b6b0f368c3",
+        "widgetId": null,
+        "routePath": "/meet-saraib"
+      },
+      "bf33617a-120d-44cd-a6a7-343e68e67579": {
+        "pageId": "491f559a-70e2-4858-af73-09b6b0f368c3",
+        "widgetId": null,
+        "routePath": "/meet-saraib"
+      },
+      "057dbdc6-566b-4cae-8b82-8de6054db454": {
+        "pageId": "2601b159-dd08-4520-be95-58e43d78e4c3",
+        "widgetId": "6762177c-c810-4759-9a9d-878092c127bf",
+        "routePath": "/art-walk"
+      }
+    },
+    "isHomepage": false,
+    "isInternalPage": true,
+    "navigationMap": {
+      "d22f447f-0542-4a86-bb49-31831082be83": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "d22f447f-0542-4a86-bb49-31831082be83",
+        "href": "/m/login",
+        "target": "",
+        "visible": true,
+        "requiresAuth": false,
+        "tags": [
+          "LOGIN"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "b79d4871-d147-426b-b7b6-47ff9ffd2604": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "b79d4871-d147-426b-b7b6-47ff9ffd2604",
+        "href": "/m/no-access",
+        "target": "",
+        "visible": true,
+        "requiresAuth": false,
+        "tags": [
+          "NO_ACCESS"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "676c95a9-be24-4094-b958-4263c411dcbc": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "676c95a9-be24-4094-b958-4263c411dcbc",
+        "href": "/m/orders",
+        "target": "",
+        "visible": true,
+        "requiresAuth": true,
+        "tags": [
+          "SHOW_ORDERS"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "7f9ded06-3483-4ce4-bde7-eeaa116cba6c": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "7f9ded06-3483-4ce4-bde7-eeaa116cba6c",
+        "name": "Sacred Sound ",
+        "href": "/sacred-sound",
+        "target": "",
+        "visible": true,
+        "isSectionLink": false,
+        "requiresAuth": false,
+        "tags": [
+          "ABOUT",
+          "QUOTE",
+          "VIDEO"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "be2c7384-8b6e-4e75-9ba7-db9344124e82": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "be2c7384-8b6e-4e75-9ba7-db9344124e82",
+        "href": "/m/create",
+        "target": "",
+        "visible": true,
+        "requiresAuth": false,
+        "tags": [
+          "CREATE_PASSWORD"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "e8bd0e73-16a4-4df6-8553-a72310500786": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "e8bd0e73-16a4-4df6-8553-a72310500786",
+        "href": "/m/account",
+        "target": "",
+        "visible": true,
+        "requiresAuth": true,
+        "tags": [
+          "SHOW_ACCOUNT"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "25d0a48a-89f3-4f6e-a606-08bd7184ec9b": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "25d0a48a-89f3-4f6e-a606-08bd7184ec9b",
+        "href": "/m/auth-redirect",
+        "target": "",
+        "visible": true,
+        "requiresAuth": false,
+        "tags": [
+          "AUTH_REDIRECT"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "491f559a-70e2-4858-af73-09b6b0f368c3": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "491f559a-70e2-4858-af73-09b6b0f368c3",
+        "name": "Meet SaraiB",
+        "href": "/meet-saraib",
+        "target": "",
+        "visible": true,
+        "isSectionLink": false,
+        "requiresAuth": false,
+        "tags": [
+          "ABOUT",
+          "QUOTE"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "eca093a8-4100-4435-aea3-dd9405ec1762": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "eca093a8-4100-4435-aea3-dd9405ec1762",
+        "href": "/m/reset",
+        "target": "",
+        "visible": true,
+        "requiresAuth": false,
+        "tags": [
+          "RESET_PASSWORD"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "96c69af4-0f89-4c7b-8b8b-71cf8447e2b1": {
+        "isFlyoutMenu": false,
+        "active": true,
+        "pageId": "96c69af4-0f89-4c7b-8b8b-71cf8447e2b1",
+        "name": "SaraiB Store",
+        "href": "/saraib-store",
+        "target": "",
+        "visible": true,
+        "isSectionLink": false,
+        "requiresAuth": false,
+        "tags": [
+          "INTRODUCTION",
+          "SHOP"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "31b1baf1-3431-49a7-9bbf-8d52258be713": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "31b1baf1-3431-49a7-9bbf-8d52258be713",
+        "name": "Home",
+        "href": "/",
+        "target": "",
+        "visible": true,
+        "requiresAuth": false,
+        "tags": [
+          "ABOUT",
+          "BUTTONS",
+          "CONTACT",
+          "GALLERY",
+          "LOGOS",
+          "QUOTE",
+          "SOCIAL"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": true
+      },
+      "2601b159-dd08-4520-be95-58e43d78e4c3": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "2601b159-dd08-4520-be95-58e43d78e4c3",
+        "name": "ART WALK ",
+        "href": "/art-walk",
+        "target": "",
+        "visible": false,
+        "isSectionLink": false,
+        "requiresAuth": false,
+        "tags": [
+          "CALENDAR",
+          "CONTACT",
+          "GALLERY"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "539d6a0d-6044-409c-b3d4-edef61ffaf79": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "539d6a0d-6044-409c-b3d4-edef61ffaf79",
+        "name": "Media",
+        "href": "/media",
+        "target": "",
+        "visible": true,
+        "isSectionLink": false,
+        "requiresAuth": false,
+        "tags": [
+          "CALENDAR",
+          "CONTACT",
+          "CONTENT",
+          "QUOTE"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "5bcd2708-aca4-4f19-ad56-ec137b2e10ca": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "5bcd2708-aca4-4f19-ad56-ec137b2e10ca",
+        "name": "404",
+        "href": "/404",
+        "target": "",
+        "visible": false,
+        "requiresAuth": false,
+        "tags": [
+          "404",
+          "INTRODUCTION"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "e5ea69c9-31c8-4a20-98a6-632629c02bf2": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "e5ea69c9-31c8-4a20-98a6-632629c02bf2",
+        "href": "/m/create-account",
+        "target": "",
+        "visible": true,
+        "requiresAuth": false,
+        "tags": [
+          "CREATE_ACCOUNT"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      },
+      "b51dc8f1-cb87-4e95-904b-ab3c13dcaca8": {
+        "isFlyoutMenu": false,
+        "active": false,
+        "pageId": "b51dc8f1-cb87-4e95-904b-ab3c13dcaca8",
+        "name": "Gallery Galaxy",
+        "href": "/gallery-galaxy",
+        "target": "",
+        "visible": true,
+        "isSectionLink": false,
+        "requiresAuth": false,
+        "tags": [
+          "GALLERY",
+          "QUOTE"
+        ],
+        "rel": "",
+        "type": "page",
+        "showInFooter": false
+      }
+    },
+    "dials": {
+      "colors": [
+        {
+          "id": "#031a40",
+          "meta": {
+            "primary": "rgb(3, 26, 64)",
+            "accent": "rgb(17, 17, 17)",
+            "neutral": "rgb(255, 255, 255)"
+          }
+        }
+      ],
+      "fonts": {
+        "primary": {
+          "id": "cinzel",
+          "description": "",
+          "tags": [
+            "serif",
+            "elegant"
+          ],
+          "meta": {
+            "order": 8,
+            "primary": {
+              "id": "cinzel",
+              "name": "Cinzel",
+              "url": "//fonts.googleapis.com/css?family=Cinzel:400&display=swap",
+              "family": "'Cinzel', Georgia, serif",
+              "size": 16,
+              "weight": 400,
+              "weights": [
+                400,
+                700
+              ]
+            },
+            "alternate": {
+              "id": "source-sans-pro",
+              "name": "Source Sans Pro",
+              "url": "//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,700,700i&display=swap",
+              "family": "'Source Sans Pro', arial, sans-serif",
+              "size": 16,
+              "weight": 400,
+              "weights": [
+                300,
+                400,
+                700
+              ],
+              "styles": {
+                "letterSpacing": "normal",
+                "textTransform": "none"
+              }
+            }
+          },
+          "overridesPrimary": [
+            {
+              "locales": [
+                "tr-TR",
+                "vi-VN",
+                "pl-PL",
+                "ta-IN",
+                "mr-IN",
+                "hi-IN"
+              ],
+              "meta": {
+                "primary": {
+                  "family": "serif"
+                }
+              }
+            }
+          ]
+        },
+        "alternate": {
+          "id": "josefin-sans",
+          "description": "",
+          "tags": [],
+          "meta": {
+            "order": 7,
+            "alternate": {
+              "id": "josefin-sans",
+              "name": "Josefin Sans",
+              "url": "//fonts.googleapis.com/css?family=Josefin+Sans:400,600,700&display=swap",
+              "family": "'Josefin Sans', Arial, sans-serif",
+              "size": 16,
+              "weight": 400,
+              "weights": [
+                400,
+                600,
+                700
+              ],
+              "styles": {
+                "letterSpacing": "normal",
+                "textTransform": "none"
+              }
+            }
+          },
+          "overridesAlternate": [
+            {
+              "locales": [
+                "vi-VN"
+              ],
+              "meta": {
+                "alternate": {
+                  "family": "Arial, sans-serif"
+                }
+              }
+            },
+            {
+              "locales": [
+                "ja-JP"
+              ],
+              "meta": {
+                "alternate": {
+                  "family": "Josefin Sans, Meiryo, '\u30e1\u30a4\u30ea\u30aa', sans-serif"
+                }
+              }
+            },
+            {
+              "locales": [
+                "ko-KR"
+              ],
+              "meta": {
+                "alternate": {
+                  "family": "Josefin Sans, '\uad74\ub9bc', Gulim, '\uad74\ub9bc\uccb4', GulimChe, sans-serif"
+                }
+              }
+            },
+            {
+              "locales": [
+                "th-TH"
+              ],
+              "meta": {
+                "alternate": {
+                  "family": "Josefin Sans, BrowalliaUPC, Tahoma, sans-serif"
+                }
+              }
+            },
+            {
+              "locales": [
+                "zh-CN",
+                "zh-SG"
+              ],
+              "meta": {
+                "alternate": {
+                  "family": "Josefin Sans, '\u4e2d\u6613\u9ed1\u4f53', SimHei, sans-serif"
+                }
+              }
+            },
+            {
+              "locales": [
+                "zh-HK",
+                "zh-TW"
+              ],
+              "meta": {
+                "alternate": {
+                  "family": "Josefin Slab, '\u5fae\u8edf\u6b63\u9ed1\u9ad4', Microsoft JhengHei, sans-serif"
+                }
+              }
+            }
+          ]
+        },
+        "logo": {
+          "id": "raleway",
+          "description": "",
+          "tags": [],
+          "meta": {
+            "order": 32,
+            "logo": {
+              "id": "raleway",
+              "name": "Raleway",
+              "url": "//fonts.googleapis.com/css?family=Raleway:700,400&display=swap",
+              "family": "'Raleway', arial, Sans-Serif",
+              "size": 14,
+              "weight": 400,
+              "weights": [
+                400,
+                700
+              ],
+              "styles": {
+                "letterSpacing": "4px",
+                "textTransform": "uppercase",
+                "fontWeight": 400,
+                "fontSize": "xlarge"
+              }
+            }
+          }
+        }
+      }
+    },
+    "theme": "Theme15",
+    "paintJob": ""
+  },
+  {
+    "upgradeable": false,
+    "preset": "shop1",
+    "id": "9da4fc5c-a9e0-4265-bc6d-9fe698fc1388",
+    "accountId": "6a27a62d-951c-11f1-9644-3cfdfe7608b1",
+    "isReseller": true,
+    "domainName": "saraibcreative.com",
+    "featureFlags": {
+      "olsApplePayTimeout": 2000,
+      "enableOlsImageZoom": true,
+      "enableOlsProductSorting": true,
+      "textOnlyProspectiveModal": true,
+      "isOlsQuickViewOn": true
+    },
+    "websiteId": "89cdc816-f4d5-4791-9db9-12ed5734b8e5",
+    "olsStatus": "PROVISION_SUCCESS",
+    "staticContent": {
+      "cart": {
+        "cart": "Cart",
+        "remove": "Remove",
+        "subtotal": "Subtotal",
+        "total": "Total",
+        "coupon": "Coupon",
+        "checkout": "Checkout",
+        "update": "Update cart",
+        "price": "Price",
+        "quantity": "Quantity",
+        "est_total": "Est. Total",
+        "error_fetching_order": "There was an error in fetching your order. Please retry the checkout.",
+        "empty_cart": "Your cart is empty",
+        "cart_icon": "Cart",
+        "no_cart": "Your cart is empty",
+        "items_changed_price": "One or more items in your cart have changed price. Please click on the links below to add them back into your cart."
+      },
+      "apple_pay": {
+        "shipping": "Shipping",
+        "subtotal": "Subtotal"
+      },
+      "loading_message": "--- Loading ---",
+      "products": {
+        "new": "New",
+        "continue_shopping": "Continue shopping",
+        "product_no_longer_available": "Sorry, this item is no longer available.",
+        "free_shipping": "Free Shipping",
+        "plus_num": "+%{num}",
+        "item_low_quantity_plural": "There are only %{count} items left",
+        "option_name_price_increase": "%{option_name} (+%{price_increase})",
+        "item_low_quantity": "Only %{count} left!",
+        "bestseller": "Bestseller",
+        "subtotal": "Subtotal",
+        "products": "Products",
+        "search_results_plural": "%{count} results for \"%{query}\"",
+        "added_to_cart": "Added to Cart",
+        "hot_item": "Hot Item",
+        "option_select": "-- Select --",
+        "add_to_cart": "Add to Cart",
+        "out_of_stock_message": "%{name} (Out of Stock)",
+        "view_all": "All Products",
+        "search_results_page_singular": "1 result",
+        "search_results_page_title": "You searched for \"%{query}\"",
+        "zeroState": {
+          "title": "Online Store",
+          "message": "Start selling online by adding or importing your products",
+          "cta_1": "Add Products",
+          "cta_2": "Import Products",
+          "bruce": {
+            "message": "Let's create your online store. You can always make changes later.",
+            "cta_1": "Create Your Store"
+          }
+        },
+        "file_information": {
+          "file_count": {
+            "one": "1 File",
+            "multiple": "%{count} Files"
+          },
+          "name": "File Name",
+          "type": "Type",
+          "size": "Size"
+        },
+        "similarProductsTitle": "You May Also Like",
+        "percentage_off": "%{percentage} off",
+        "no_products_message": "New products are coming soon!",
+        "from": "From",
+        "quantity": "Quantity",
+        "top_pick": "Top Pick",
+        "item_out_of_stock": "This item is out of stock",
+        "placeholder_title": "Shop",
+        "view_full_details": "View Full Details",
+        "backordered_message": "%{name} (Backordered)",
+        "item_low_quantity_hurry": "Hurry, Limited Stock!",
+        "item_out_of_stock_v2": "Out of Stock",
+        "free_returns": "Free Returns",
+        "placeholder_description": "Sell your products online",
+        "item_low_quantity_almost_gone": "Almost Gone!",
+        "item_low_quantity_singular": "There is only 1 item left",
+        "product_no_longer_available_2": "Sorry, that product is no longer available.",
+        "item_low_quantity_limited_stock": "Selling fast - Limited Stock!",
+        "search_results_page_plural": "%{count} results",
+        "more_options": "More options",
+        "quick_view": "Quick View",
+        "optional_label_text": "%{name} (optional)",
+        "search_results_singular": "1 result for \"%{query}\"",
+        "missing_required": {
+          "select": {
+            "one": "Select %{option} to add to cart",
+            "two": "Select %{option1} and %{option2} to add to cart",
+            "three": "Select %{option1}, %{option2} and %{option3} to add to cart",
+            "more": "Select %{option1}, %{option2}, %{option3} and more to add to cart"
+          },
+          "text": {
+            "one": "Enter %{option} to add to cart",
+            "two": "Enter %{option1} and %{option2} to add to cart",
+            "three": "Enter %{option1}, %{option2} and %{option3} to add to cart",
+            "more": "Enter %{option1}, %{option2}, %{option3} and more to add to cart"
+          }
+        },
+        "search_results_title": "Search Results",
+        "limited_edition": "Limited Edition",
+        "option_name_price_increase_v2": "%{option_name} (%{price_increase})",
+        "new_arrival": "New Arrival",
+        "error_fetching_product_data": "There was an error in fetching the product data. Please check back later and refresh this page.",
+        "item_backordered": "Backordered",
+        "sample_product": "Sample Product",
+        "filters": {
+          "max": "Max",
+          "on_sale": "On Sale",
+          "clear_filters": "Clear Filters",
+          "price": "Price",
+          "price_max": "Maximum price",
+          "clear_all": "Clear all",
+          "in_stock_only": "In Stock Only",
+          "min": "Min",
+          "availability": "Availability",
+          "filters": "Filters",
+          "price_min": "Minimum price"
+        },
+        "sale_label": "Sale",
+        "save_percentage": "Save %{percentage}",
+        "sort_options": {
+          "label": "Sort by",
+          "descend_by_match": "Best match",
+          "descend_by_popularity": "Most popular",
+          "descend_by_created_at": "Newest",
+          "ascend_by_name": "Name (A-Z)",
+          "descend_by_name": "Name (Z-A)",
+          "ascend_by_price": "Price (low to high)",
+          "descend_by_price": "Price (high to low)"
+        },
+        "buy_now": "Buy Now",
+        "you_save": "You save %{amount} (%{percentage})",
+        "free_shipping_and_returns": "Free Shipping & Returns",
+        "no_search_results": "0 results for \"%{query}\"",
+        "share": "Share"
+      },
+      "coupon": {
+        "coupon": "Coupon",
+        "mobileCouponCode": "Coupon code?",
+        "desktopCouponCode": "Have a coupon code?",
+        "apply": "Apply",
+        "validCoupon": "Coupon applied successfully.",
+        "invalidCoupon": "Invalid coupon. Please try again."
+      },
+      "coming_soon_modal": {
+        "success": "Thanks so much for signing up - stay tuned for updates!",
+        "error": "An error occurred. Please try again.",
+        "emailError": "Invalid email. Please try again.",
+        "email_placeholder": "Email Address",
+        "cta": "Sign up",
+        "title": "Coming Soon",
+        "content": {
+          "line_1": "We're working on bringing you a fantastic selection of products.",
+          "line_2": "Sign up to be the first to get notified when we open!",
+          "stay_tuned": "Stay tuned and check back again!"
+        },
+        "email_notice": "By signing up, you may receive exclusive rewards via email.",
+        "ok": "OK"
+      },
+      "edit_mode_cta": {
+        "title": "Start selling online",
+        "sub_title": "Add a few products to get started",
+        "btn_label": "Add Products"
+      },
+      "provisioning_loading": "Loading",
+      "shipping": {
+        "free_shipping_threshold": "Free shipping if order is %{currencySymbol}%{threshold} or more"
+      },
+      "image_zoom": {
+        "touch_to_zoom": "Tap to zoom in",
+        "hover_to_zoom": "Roll over to zoom in",
+        "press_to_zoom": "Press image to zoom in"
+      },
+      "categories": {
+        "categories": "Categories",
+        "error_fetching_category_data": "There was an error in fetching the category data. Please check back later and refresh this page.",
+        "view_all": "View All",
+        "sampleName": "Category"
+      }
+    },
+    "olsAccountStatus": "ACTIVE",
+    "sampleImages": [
+      {
+        "image": "//img1.wsimg.com/isteam/getty/2210410974"
+      },
+      {
+        "image": "//img1.wsimg.com/isteam/getty/1421808392"
+      },
+      {
+        "image": "//img1.wsimg.com/isteam/getty/2237013993"
+      },
+      {
+        "image": "//img1.wsimg.com/isteam/getty/941328776"
+      },
+      {
+        "image": "//img1.wsimg.com/isteam/getty/1407324072"
+      }
+    ],
+    "hasNotCreatedAProduct": false,
+    "isSeedingSampleProducts": false,
+    "addProductUrl": "https://89cdc816-f4d5-4791-9db9-12ed5734b8e5.onlinestore.secureserver.net/admin/products/new",
+    "importProductUrl": "https://89cdc816-f4d5-4791-9db9-12ed5734b8e5.onlinestore.secureserver.net/admin/products?product=VNEXT&import=true",
+    "productsUrl": "https://89cdc816-f4d5-4791-9db9-12ed5734b8e5.onlinestore.secureserver.net/admin/products",
+    "layoutDesktopColumns": "3",
+    "layoutMobileColumns": "1",
+    "editModeView": "product_details",
+    "sectionTitle": "Products",
+    "imageCropMethod": "expandToFill",
+    "galleryShowBorder": false,
+    "galleryImageShape": "square",
+    "showFacebook": true,
+    "showTwitter": true,
+    "smartRibbonsTitle": "",
+    "smartRibbonsSale": true,
+    "smartRibbonsSaleOption": "sale",
+    "smartRibbonsBestsellerOption": "bestseller",
+    "smartRibbonsNewProductOption": "new",
+    "smartRibbonStyle": "default",
+    "layoutPicker": "",
+    "productAdd": "",
+    "pdpLayout": "layout1",
+    "pdpImageCropMethod": "expandToFill",
+    "defaultSortOption": "descend_by_popularity",
+    "shopRoute": "/saraib-store",
+    "showSimilarProducts": true,
+    "pdpImageShape": "vertical",
+    "showQuickView": true,
+    "useBruce": false,
+    "olsWidgetId": "9da4fc5c-a9e0-4265-bc6d-9fe698fc1388",
+    "olsProxyBaseUrl": "https://online-store.api.secureserver.net/v1/accounts/89cdc816-f4d5-4791-9db9-12ed5734b8e5",
+    "shopContainerComponent": "ShopContainer1",
+    "widgetId": "9da4fc5c-a9e0-4265-bc6d-9fe698fc1388",
+    "section": "default",
+    "category": "primary",
+    "locale": "en-US",
+    "env": "production",
+    "renderMode": "PUBLISH",
+    "viewDevice": null
+  },
+  {
+    "order": 1,
+    "widgetId": "9da4fc5c-a9e0-4265-bc6d-9fe698fc1388",
+    "widgetType": "SHOP",
+    "widgetPreset": "shop1",
+    "group": "Widget",
+    "section": "default",
+    "category": "primary",
+    "fontSize": "medium",
+    "fontFamily": "alternate",
+    "websiteThemeOverrides": {
+      "ButtonPrimary": {
+        "value": {
+          "shape": "SOFT",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "color": "PRIMARY",
+          "treatment": "glass"
+        }
+      },
+      "ButtonExternal": {
+        "value": {
+          "shape": "SOFT",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "color": "PRIMARY",
+          "treatment": "glass"
+        }
+      },
+      "ButtonSecondary": {
+        "value": {
+          "color": "PRIMARY",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "treatment": "glass",
+          "shape": "ROUND"
+        }
+      },
+      "ButtonSpotlight": {
+        "value": {
+          "color": "PRIMARY",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "treatment": "glass",
+          "shape": "ROUND"
+        }
+      }
+    },
+    "widgetThemeOverrides": {
+      "Widget": {
+        "value": {
+          "colors": [
+            "#031a40"
+          ]
+        }
+      }
+    },
+    "divider": {},
+    "sectionColorOverride": "#031a40",
+    "colorMode": null
+  },
+  {
+    "id": "060af145-6fa6-4bda-83e5-bd1f0f7f262e",
+    "dismissCookie": "cookie_warning_dismissed",
+    "acceptCookie": "cookie_terms_accepted"
+  },
+  {
+    "id": "popup-widget641",
+    "cookieName": "wam_widgets_popup_closed_89cdc816-f4d5-4791-9db9-12ed5734b8e5_1788981846368",
+    "popupDelay": "0"
+  },
+  {
+    "config": {
+      "formSubmitEndpoint": "/messaging",
+      "assetsHost": "https://img1.wsimg.com",
+      "assetsBasePath": "/isteam",
+      "contactsHost": "https://contacts.godaddy.com",
+      "conversationsWebHost": "https://conversations.godaddy.com",
+      "formSubmitHost": "https://contact.apps-api.instantpage.secureserver.net",
+      "generateUrlHost": "https://url-generator.apps.secureserver.net",
+      "vNextApiHost": "https://websites.api.godaddy.com",
+      "vNextHost": "https://launch.godaddy.com/?path=edit",
+      "reamazeApiHost": "https://{{brandId}}reamaze.godaddy.com",
+      "reamazeJsSource": "https://cdn.reamaze.com/assets/reamaze-loader.js",
+      "reamazeCookieJsSource": "https://cdn.reamaze.com/assets/reamaze-godaddy-loader.js"
+    },
+    "businessName": "SARAIB CREATIVE",
+    "reamazeBrandId": null,
+    "welcomeMessage": "Hi! Let us know how we can help and we\u2019ll respond shortly.",
+    "formSuccessMessage": "Thanks for the message. We'll get back to you as soon as we can.",
+    "emailOptInMessage": "Sign up to receive email updates, announcements, and more.",
+    "emailOptInEnabled": false,
+    "domainName": "saraibcreative.com",
+    "cookieBannerEnabled": true,
+    "formFields": [
+      {
+        "keyName": "name",
+        "type": "SINGLE_LINE",
+        "label": "Name",
+        "validation": "required",
+        "required": true
+      },
+      {
+        "keyName": "phone",
+        "type": "PHONE",
+        "label": "Mobile",
+        "validation": "phone",
+        "required": true
+      },
+      {
+        "keyName": "email",
+        "type": "EMAIL",
+        "label": "Email",
+        "validation": "email",
+        "required": true,
+        "replyTo": true
+      },
+      {
+        "keyName": "message",
+        "type": "MULTI_LINE",
+        "label": "How can we help?",
+        "validation": "required",
+        "required": true
+      },
+      {
+        "type": "SUBMIT",
+        "label": "Send"
+      }
+    ],
+    "accountId": "6a27a62d-951c-11f1-9644-3cfdfe7608b1",
+    "websiteId": "89cdc816-f4d5-4791-9db9-12ed5734b8e5",
+    "id": "a470bb00-b2d8-4a0b-84e4-e242cb1b4928",
+    "staticContent": {
+      "submitButtonLoadingLabel": "Sending",
+      "infoStartTitle": "Conversations",
+      "contactFormResponseErrorMessage": "Something went wrong while sending your message, please try again later",
+      "infoStartDesc": "Respond smarter and faster to website messages, text messages and Facebook Messenger. Receive instant notifications, reply from anywhere, all from your phone.",
+      "infoStartTag": "New",
+      "phoneValidationErrorMessage": "Please enter a valid phone number.",
+      "defaultCancelButtonLabel": "Cancel",
+      "contactsLinkInfoMessaging": "Contacts from your website messaging form are captured in Connections.",
+      "defaultSubmitButtonLabel": "Send",
+      "endOfChat": "end of chat",
+      "infoConnectedDesc": "You are connected to the Conversations mobile app and are currently receiving all website messages there.",
+      "infoRecommendedTag": "Recommended",
+      "infoStartLink": "Get Started",
+      "phoneUsOnlyValidationErrorMessage": "Please enter a valid U.S. mobile phone number.",
+      "infoIncludedTag": "Included",
+      "infoPublishRequiredDesc": "A publish is needed in order to complete this first step of enabling this feature.",
+      "infoPendingLoginDesc": "A text message has been sent to you to download the Conversations app. Please download and install to complete set up.",
+      "termsOfSerivce": "Terms of Service",
+      "infoUnavailableDesc": "We currently only allow this to work with one website. To use this feature on this website, please disconnect from the active one.",
+      "recaptchaDisclosure": "This site is protected by reCAPTCHA and the Google {privacyPolicy} and {termsOfSerivce} apply.",
+      "emailValidationErrorMessage": "Please enter a valid email address.",
+      "privacyPolicyURL": "https://policies.google.com/privacy",
+      "infoUnavailableTitle": "Conversations",
+      "requiredValidationErrorMessage": "Please fill in this required field",
+      "infoUnavailableTag": "Unavailable",
+      "contactsLinkText": "Manage my contacts",
+      "privacyPolicy": "Privacy Policy",
+      "infoPublishRequiredLink": "Publish Now",
+      "infoPendingLoginLink": "Resend Link",
+      "infoConnectedTitle": "Conversations Mobile App",
+      "termsOfSerivceURL": "https://policies.google.com/terms",
+      "messagesRatesLegalDisclosure": "By submitting your phone number, you agree to receive text messages from us. Message/ data rates may apply.",
+      "emailMaxCountValidationErrorMessage": "Your email address is too long",
+      "infoConnectedTag": "Connected"
+    },
+    "emailConfirmationMessage": "We've sent you a confirmation email, please click the link to verify your address.",
+    "recaptchaType": "V3",
+    "isMobile": null,
+    "notificationPreference": "EMAIL",
+    "isReseller": true,
+    "reamazePromptEnabled": true,
+    "reamazeThemeColor": "#031a40",
+    "reamazePosition": "bottom-right",
+    "reamazeAvatarImage": "",
+    "reamazeFaqEnabled": true,
+    "reamazeAllowBotProcessing": true,
+    "widgetId": "a470bb00-b2d8-4a0b-84e4-e242cb1b4928",
+    "section": "default",
+    "category": "neutral",
+    "locale": "en-US",
+    "env": "production",
+    "renderMode": "PUBLISH",
+    "viewDevice": null
+  },
+  {
+    "order": 0,
+    "widgetId": "a470bb00-b2d8-4a0b-84e4-e242cb1b4928",
+    "widgetType": "MESSAGING",
+    "widgetPreset": "messaging1",
+    "section": "default",
+    "category": "neutral",
+    "fontSize": "medium",
+    "fontFamily": "alternate",
+    "websiteThemeOverrides": {
+      "ButtonPrimary": {
+        "value": {
+          "shape": "SOFT",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "color": "PRIMARY",
+          "treatment": "glass"
+        }
+      },
+      "ButtonExternal": {
+        "value": {
+          "shape": "SOFT",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "color": "PRIMARY",
+          "treatment": "glass"
+        }
+      },
+      "ButtonSecondary": {
+        "value": {
+          "color": "PRIMARY",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "treatment": "glass",
+          "shape": "ROUND"
+        }
+      },
+      "ButtonSpotlight": {
+        "value": {
+          "color": "PRIMARY",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "treatment": "glass",
+          "shape": "ROUND"
+        }
+      }
+    },
+    "widgetThemeOverrides": {},
+    "divider": null,
+    "sectionColorOverride": null,
+    "colorMode": null
+  },
+  {
+    "olsProxyBaseUrl": null,
+    "widgetId": "f118fd72-0a8b-4934-9d98-2e93182e5bb1",
+    "section": "default",
+    "category": "neutral",
+    "locale": "en-US",
+    "env": "production",
+    "renderMode": "PUBLISH",
+    "viewDevice": null
+  },
+  {
+    "order": 0,
+    "widgetId": "f118fd72-0a8b-4934-9d98-2e93182e5bb1",
+    "widgetType": "CART",
+    "widgetPreset": "cart1",
+    "section": "default",
+    "category": "neutral",
+    "fontSize": "medium",
+    "fontFamily": "alternate",
+    "websiteThemeOverrides": {
+      "ButtonPrimary": {
+        "value": {
+          "shape": "SOFT",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "color": "PRIMARY",
+          "treatment": "glass"
+        }
+      },
+      "ButtonExternal": {
+        "value": {
+          "shape": "SOFT",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "color": "PRIMARY",
+          "treatment": "glass"
+        }
+      },
+      "ButtonSecondary": {
+        "value": {
+          "color": "PRIMARY",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "treatment": "glass",
+          "shape": "ROUND"
+        }
+      },
+      "ButtonSpotlight": {
+        "value": {
+          "color": "PRIMARY",
+          "fill": "NONE",
+          "decoration": "NONE",
+          "shadow": "NONE",
+          "size": "default",
+          "treatment": "glass",
+          "shape": "ROUND"
+        }
+      }
+    },
+    "widgetThemeOverrides": {},
+    "divider": null,
+    "sectionColorOverride": null,
+    "colorMode": null
+  }
+]
